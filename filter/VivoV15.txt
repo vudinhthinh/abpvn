@@ -1,0 +1,17 @@
+﻿[Adblock Plus 2.0]
+! Version: 20230804084037
+! Title: ABPVN List
+! Last modified: 04 Aug 2023 08:40:37 UTC+7
+! Expires: 1 days (update frequency)
+!
+! ABPVN List filter
+! Copyright: ABPVN
+! Homepage: https://abpvn.com/
+! License: GPLv3 (https://github.com/abpvn/abpvn/blob/master/LICENSE)
+! Please report any unblocked ads or problems by email or in our fanpage
+! Mọi thắc mắc xin gửi về email hoặc fanpage
+! Email: support@abpvn.com
+! Facebook Fanpage: https://www.facebook.com/abpvn.org
+! Forum: https://voz.vn/t/abpvn-chan-quang-cao-cho-nguoi-viet.25778/
+! Report new issue on github: https://github.com/abpvn/abpvn/issues/new
+! ---------- Generic Blocking Rules ---------- jr.baomoi.com miniappstore.api.zalo.me asia-theme-api.vivoglobal.com in-exstatic-vivofs.vivo.com wifi.vivo.com.cn asia-romsp-unifyconfig.vivoglobal.com asia-vcode-od.vivoglobal.com in-third-appstore.vivoglobal.com asia-exstatic.vivoglobal.com asia-vcode-api.vivoglobal.com asia-romsp.vivoglobal.com auth.ff.avast.com sp-607ddbd2.vps-v4.u.avcdn.net sp-607ddbd2.vps-v4.u.avast.com asia-rommc-api.vivoglobal.com config.edge.skype.com vcm-static.vivo.com asia-st-expc.vivo.com asia-exstatic-vivofs.vivo.com asia-vnote.vivoglobal.com asia-st-exappupgrade.vivoglobal.com az.appstore.vivo.com.cn oauth.zaloapp.com asia-st-sysupgrade.vivoglobal.com api.baomoi.com sso.tuoitre.vn asia-os-config-appstore.vivoglobal.com raovat.tuoitre.vn apigames.kenh14.vn update.kiwibrowser.com www.baidu.com wf.vivo.com.cn asia-st-sl.vivoglobal.com asia-magazineunlock.vivoglobal.com asia-exappupgrade.vivoglobal.com asia-sysupgrade-api.vivoglobal.com
