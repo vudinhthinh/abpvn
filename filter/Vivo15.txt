@@ -1,6 +1,6 @@
 in-exstatic-vivofs.vivo.com
-*wifi.vivo.com.cn
-*wf.vivo.com.cn
+wifi.vivo.com.cn
+wf.vivo.com.cn
 asia-romsp-unifyconfig.vivoglobal.com
 ||asia-vcode-od.vivoglobal.com^
 in-third-appstore.vivoglobal.com
