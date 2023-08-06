@@ -1,4 +1,3 @@
-asia-theme-api.vivoglobal.com
 in-exstatic-vivofs.vivo.com
 wifi.vivo.com.cn
 wf.vivo.com.cn
@@ -11,7 +10,6 @@ asia-romsp.vivoglobal.com
 asia-st-sl.vivoglobal.com
 asia-magazineunlock.vivoglobal.com
 asia-exappupgrade.vivoglobal.com
-asia-sysupgrade-api.vivoglobal.com
 aisa-onrt-stsdk.vivoglobal.com
 asia-rommc-api.vivoglobal.com
 vcm-static.vivo.com
@@ -35,3 +33,4 @@ jr.baomoi.com
 miniappstore.api.zalo.me
 
 asia-sysupgrade-api.vivoglobal.com
+asia-theme-api.vivoglobal.com
