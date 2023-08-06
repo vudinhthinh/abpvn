@@ -10,11 +10,10 @@ asia-exstatic.vivoglobal.com
 asia-vcode-api.vivoglobal.com
 asia-romsp.vivoglobal.com
 auth.ff.avast.com
-update.utorrent.com
+aisa-onrt-stsdk.vivoglobal.com
 sp-607ddbd2.vps-v4.u.avcdn.net
 sp-607ddbd2.vps-v4.u.avast.com
 asia-rommc-api.vivoglobal.com
-config.edge.skype.com
 vcm-static.vivo.com
 asia-st-expc.vivo.com
 asia-exstatic-vivofs.vivo.com
