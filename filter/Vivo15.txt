@@ -19,7 +19,7 @@ asia-st-expc.vivo.com
 asia-exstatic-vivofs.vivo.com
 asia-vnote.vivoglobal.com
 asia-st-exappupgrade.vivoglobal.com
-az.appstore.vivo.com.cn
+az.appstore.vivo.com.cm
 oauth.zaloapp.com
 asia-st-sysupgrade.vivoglobal.com
 api.baomoi.com
@@ -28,7 +28,6 @@ asia-os-config-appstore.vivoglobal.com
 raovat.tuoitre.vn
 apigames.kenh14.vn
 update.kiwibrowser.com
-www.baidu.com
 wf.vivo.com.cn
 asia-st-sl.vivoglobal.com
 asia-magazineunlock.vivoglobal.com
