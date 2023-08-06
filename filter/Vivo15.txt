@@ -33,3 +33,5 @@ apigames.kenh14.vn
 update.kiwibrowser.com
 jr.baomoi.com
 miniappstore.api.zalo.me
+
+asia-sysupgrade-api.vivoglobal.com
