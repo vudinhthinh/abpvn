@@ -29,8 +29,10 @@
 127.0.0.1 apigames.kenh14.vn
 127.0.0.1 update.kiwibrowser.com
 127.0.0.1 centralized.zaloapp.com
-jr.baomoi.com
-miniappstore.api.zalo.me
-asia-sysupgrade-api.vivoglobal.com
-asia-theme-api.vivoglobal.com
-asia-st-exappupgrade.vivoglobal.com
+127.0.0.1 jr.baomoi.com
+127.0.0.1 miniappstore.api.zalo.me
+127.0.0.1 asia-sysupgrade-api.vivoglobal.com
+127.0.0.1 asia-theme-api.vivoglobal.com
+127.0.0.1 asia-st-exappupgrade.vivoglobal.com
+127.0.0.1 button-share.zalo.me
+127.0.0.1 log.baomoi.com
