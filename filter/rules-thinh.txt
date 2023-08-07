@@ -4,9 +4,9 @@
 ||sp-607ddbd2.vps-v4.u.avcdn.net^
 ||sp-607ddbd2.vps-v4.u.avast.com^
 ||broadcast.api.zaloapp.com^
-||asia-sysupgrade-api.vivoglobal.com^
-||asia-exappupgrade.vivoglobal.com^
-||asia-magazineunlock.vivoglobal.com^
+/asia-sysupgrade-api.vivoglobal.com
+/asia-exappupgrade.vivoglobal.com
+/asia-magazineunlock.vivoglobal.com
 ||asia-st-sl.vivoglobal.com^
 ||wf.vivo.com.cn^
 ||getpage.api.zaloapp.com^
