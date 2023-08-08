@@ -1,88 +1,38 @@
-# Title: StevenBlack/hosts
-#
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
-#
-# Date: 06 August 2023 00:26:10 (UTC)
-# Number of unique domains: 207,329
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
-#
-# ===============================================================
-
-127.0.0.1 localhost
-127.0.0.1 localhost.localdomain
-127.0.0.1 local
-255.255.255.255 broadcasthost
-::1 localhost
-::1 ip6-localhost
-::1 ip6-loopback
-fe80::1%lo0 localhost
-ff00::0 ip6-localnet
-ff00::0 ip6-mcastprefix
-ff02::1 ip6-allnodes
-ff02::2 ip6-allrouters
-ff02::3 ip6-allhosts
-0.0.0.0 0.0.0.0
-
-# Custom host records are listed here.
-
-
-# End of custom host records.
-# Start StevenBlack
-
-#=====================================
-# Title: Hosts contributed by Steven Black
-# http://stevenblack.com
-
-0.0.0.0 in-exstatic-vivofs.vivo.com
-0.0.0.0 wifi.vivo.com.cn
-0.0.0.0 wf.vivo.com.cn
-0.0.0.0 asia-romsp-unifyconfig.vivoglobal.com
-0.0.0.0 asia-vcode-od.vivoglobal.com
-0.0.0.0 in-third-appstore.vivoglobal.com
-0.0.0.0 asia-exstatic.vivoglobal.com
-0.0.0.0 asia-vcode-api.vivoglobal.com
-0.0.0.0 asia-romsp.vivoglobal.com
-0.0.0.0 asia-st-sl.vivoglobal.com
-0.0.0.0 asia-magazineunlock.vivoglobal.com
-0.0.0.0 asia-exappupgrade.vivoglobal.com
-0.0.0.0 aisa-onrt-stsdk.vivoglobal.com
-0.0.0.0 asia-rommc-api.vivoglobal.com
-0.0.0.0 vcm-static.vivo.com
-0.0.0.0 asia-st-expc.vivo.com
-0.0.0.0 asia-exstatic-vivofs.vivo.com
-0.0.0.0 asia-vnote.vivoglobal.com
-0.0.0.0 asia-st-sysupgrade.vivoglobal.com
-0.0.0.0 az.appstore.vivo.com.cm
-0.0.0.0 asia-os-config-appstore.vivoglobal.com
-0.0.0.0 auth.ff.avast.com
-0.0.0.0 sp-607ddbd2.vps-v4.u.avast.com
-0.0.0.0 sp-607ddbd2.vps-v4.u.avcdn.net
-0.0.0.0 oauth.zaloapp.com
-0.0.0.0 api.baomoi.com
-0.0.0.0 sso.tuoitre.vn
-0.0.0.0 raovat.tuoitre.vn
-0.0.0.0 apigames.kenh14.vn
-0.0.0.0 update.kiwibrowser.com
-0.0.0.0 centralized.zaloapp.com
-0.0.0.0 jr.baomoi.com
-0.0.0.0 miniappstore.api.zalo.me
-0.0.0.0 asia-sysupgrade-api.vivoglobal.com
-0.0.0.0 asia-theme-api.vivoglobal.com
-0.0.0.0 asia-st-exappupgrade.vivoglobal.com
-0.0.0.0 button-share.zalo.me
-0.0.0.0 log.baomoi.com
-
-# End yoyo.org
-
-# blacklist
-#
-# The contents of this file (containing a listing of additional domains in
-# 'hosts' file format) are appended to the unified hosts file during the
-# update process. For example, uncomment the following line to block
-# 'example.com':
-
-# 0.0.0.0 example.com
+in-exstatic-vivofs.vivo.com
+wifi.vivo.com.cn
+wf.vivo.com.cn
+asia-romsp-unifyconfig.vivoglobal.com
+asia-vcode-od.vivoglobal.com
+in-third-appstore.vivoglobal.com
+asia-exstatic.vivoglobal.com
+asia-vcode-api.vivoglobal.com
+asia-romsp.vivoglobal.com
+asia-st-sl.vivoglobal.com
+asia-magazineunlock.vivoglobal.com
+asia-exappupgrade.vivoglobal.com
+aisa-onrt-stsdk.vivoglobal.com
+asia-rommc-api.vivoglobal.com
+vcm-static.vivo.com
+asia-st-expc.vivo.com
+asia-exstatic-vivofs.vivo.com
+asia-vnote.vivoglobal.com
+asia-st-sysupgrade.vivoglobal.com
+az.appstore.vivo.com.cm
+asia-os-config-appstore.vivoglobal.com
+auth.ff.avast.com
+sp-607ddbd2.vps-v4.u.avast.com
+sp-607ddbd2.vps-v4.u.avcdn.net
+oauth.zaloapp.com
+api.baomoi.com
+sso.tuoitre.vn
+raovat.tuoitre.vn
+apigames.kenh14.vn
+update.kiwibrowser.com
+centralized.zaloapp.com
+jr.baomoi.com
+miniappstore.api.zalo.me
+asia-sysupgrade-api.vivoglobal.com
+asia-theme-api.vivoglobal.com
+asia-st-exappupgrade.vivoglobal.com
+button-share.zalo.me
+log.baomoi.com
