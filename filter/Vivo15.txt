@@ -36,3 +36,11 @@ asia-theme-api.vivoglobal.com
 asia-st-exappupgrade.vivoglobal.com
 button-share.zalo.me
 log.baomoi.com
+auth.ff.avast.com
+appldnld.apple.com
+ocsp.apple.com
+swscan.apple.com
+gdmf.apple.com
+mesu.apple.com
+xp.apple.com
+gdmf.v.aaplimg.com
