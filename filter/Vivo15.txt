@@ -44,3 +44,5 @@ gdmf.apple.com
 mesu.apple.com
 xp.apple.com
 gdmf.v.aaplimg.com
+fe-gr-chat.zalo.me
+
