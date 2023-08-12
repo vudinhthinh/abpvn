@@ -1,4 +1,3 @@
-||config.edge.skype.com^
 ||asia-rommc-api.vivoglobal.com^
 ||qos-talk.123c.vn^
 ||sp-607ddbd2.vps-v4.u.avcdn.net^
@@ -42,8 +41,6 @@
 ||wf.vivo.com.cn^
 ||apigames.kenh14.vn^
 ||asia-romsp.vivoglobal.com^
-||connectivitycheck.gstatic.com^
-||www.baidu.com^
 ||asia-onrt-stsdk.vivoglobal.com^
 ||wifi.vivo.com.cn^
 ||asia-vcode-od.vivoglobal.com^
