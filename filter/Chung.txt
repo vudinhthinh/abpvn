@@ -1,13 +1,11 @@
 m.genk.vn###adm-slot-7269
-m.genk.vn###adm-slot-7269
 
-! 2023-08-10 https://rphang.tv
 ||rphang.online/images/top_mobile_*2.gif$image
 ||rphang.online/images/top_mobile_*2.gif$image
 ||rphang.online/images/*.gif$image
 rphang.tv##.notice--primary.js-notice.notice
 rphang.tv##.uix_welcomeSection__inner
-! 2023-08-10 https://hangdep.lol
+
 ||i.imgur.com/rGPuPD5.jpg$image
 hangdep.lol###wow-modal-overclose-2
 ||i.imgur.com/rGPuPD5.jpg$image
@@ -15,5 +13,4 @@ hangdep.lol##.modal-window-content
 hangdep.lol##.text.topRight.mw-close-btn
 hangdep.lol###wow-modal-overlay-2
 
-! 2023-08-10 https://tinhte.vn
 tinhte.vn##.facts-container.jsx-1328309378
