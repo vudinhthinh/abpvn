@@ -18,4 +18,5 @@ voz.vn##.message-signature
 
 ||u3c3.club/*.gif
 ||tm00738.bj.bcebos.com/*.gif$image
+||u3c3.club/202*$image
 
