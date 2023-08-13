@@ -20,3 +20,7 @@ voz.vn##.message-signature
 ||tm00738.bj.bcebos.com/*.gif$image
 ||u3c3.club/202*$image
 
+||kk.51688.cc/ya/*.gif
+||gdbco.xyz/wp-content/uploads/2021/06/*.gif
+
+
