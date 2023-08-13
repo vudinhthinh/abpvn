@@ -17,8 +17,10 @@ tinhte.vn##.facts-container.jsx-1328309378
 voz.vn##.message-signature
 
 ||u3c3.club/*.gif
+||u3c3.com/*.gif
 ||tm00738.bj.bcebos.com/*.gif$image
 ||u3c3.club/202*$image
+||u3c3.com/202*$image
 
 ||kk.51688.cc/ya/*.gif
 ||gdbco.xyz/wp-content/uploads/2021/06/*.gif
