@@ -44,3 +44,7 @@
 ||asia-onrt-stsdk.vivoglobal.com^
 ||wifi.vivo.com.cn^
 ||asia-vcode-od.vivoglobal.com^
+||asia-stsdk.vivoglobal.com^
+
+
+
