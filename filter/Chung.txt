@@ -1,5 +1,4 @@
-||u3c3.com^*.gif
-u3c3.com##a[onclick^="em"]
+
 
 m.genk.vn###adm-slot-7269
 
@@ -24,6 +23,8 @@ voz.vn##.message-signature
 ||tm00738.bj.bcebos.com/*.gif$image
 ||u3c3.club/202*$image
 ||u3c3.com/202*$image
+||u3c3.com^*.gif
+u3c3.com##a[onclick^="em"]
 
 ||kk.51688.cc/ya/*.gif
 ||gdbco.xyz/wp-content/uploads/2021/06/*.gif
