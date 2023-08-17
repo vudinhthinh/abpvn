@@ -1,8 +1,8 @@
 
 
 
-*.mp4^$domain=90phut9.live|thapcam.net|hangdep.lol|xoilac12.org|90phut.click|4shares.live
-*.gif^$domain=90phut9.live|thapcam.net|vebo3.org|xoilac12.org|4shares.live
+*.mp4^$domain=90phut9.live|thapcam.net|xoilac12.org|90phut.click|4shares.live
+*.gif^$domain=90phut9.live|thapcam.net|hangdep.lol|xoilac12.org|4shares.live
 @@||w-api.baomoi.com^
 www.thegioididong.com##.zalo-chat-widget
 m.genk.vn###adm-slot-7269
