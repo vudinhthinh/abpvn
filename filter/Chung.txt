@@ -1,6 +1,7 @@
 
 
-
+pro.uptodatefree.ir##span > [href="/Donate/"]
+pro.uptodatefree.ir##.upperbox > span
 ||69av.one/*.gif
 @@||w-api.baomoi.com^
 www.thegioididong.com##.zalo-chat-widget
