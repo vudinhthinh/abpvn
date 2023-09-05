@@ -1,5 +1,8 @@
 
 
+
+onedrive.live.com##div.od-ItemContent-header.od-ItemsScopeItemContent-header:nth-of-type(2)
+
 pro.uptodatefree.ir##span > [href="/Donate/"]
 pro.uptodatefree.ir##.upperbox > span
 ||69av.one/*.gif
