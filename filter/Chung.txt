@@ -1,4 +1,6 @@
 
+||accounts.google.com/gsi/iframe/select$subdocument
+
 pro.uptodatefree.ir##.my-2.container
 pro.uptodatefree.ir##.container > strong
 
