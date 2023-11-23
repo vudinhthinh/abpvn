@@ -1,4 +1,7 @@
 
+
+vnexpress.net##.js_installvneapp.installvneapp--small.installvneapp
+javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
 onedrive.live.com##.msTilesCarousel_e93481d1
 
 ||accounts.google.com/gsi/iframe/select$subdocument
