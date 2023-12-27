@@ -1,5 +1,12 @@
 
-
+m.genk.vn###adm-slot-7269
+rphang.me##.uix_noticeInner
+||accounts.google.com/gsi/iframe/select$subdocument
+tinhte.vn##.undefined.additional-padding.col-main.jsx-2790954478>.jsx-1328309378
+rphang.me##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
+rphang.me##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
+rphang.me##.uix_welcomeSection__inner
+rphang.me##.samBannerUnit
 vnexpress.net##.js_installvneapp.installvneapp--small.installvneapp
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
 onedrive.live.com##.msTilesCarousel_e93481d1
