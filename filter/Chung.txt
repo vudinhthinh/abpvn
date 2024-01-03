@@ -16,20 +16,8 @@ pro.uptodatefree.ir##.upperbox > span
 www.thegioididong.com##.zalo-chat-widget
 
 ||rphang.online/images/top_mobile_*2.gif$image
-||rphang.online/images/top_mobile_*2.gif$image
 ||rphang.online/images/*.gif$image
-rphang.tv##.notice--primary.js-notice.notice
-rphang.tv##.uix_welcomeSection__inner
-rphang.me##.notice--primary.js-notice.notice
-rphang.me##.uix_welcomeSection__inner
-rphang.me##.samBannerUnit
-rphang.me##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
-rphang.me##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
-rphang.me##.uix_noticeInner
-rphang.me##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
-rphang.me##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
-rphang.me##.uix_welcomeSection__inner
-rphang.me##.samBannerUnit
+
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
 
 
