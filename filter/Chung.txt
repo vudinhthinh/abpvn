@@ -4,7 +4,6 @@ m.genk.vn###adm-slot-7269
 ||accounts.google.com/gsi/iframe/select$subdocument
 
 vnexpress.net##.js_installvneapp.installvneapp--small.installvneapp
-onedrive.live.com##.msTilesCarousel_e93481d1
 
 pro.uptodatefree.ir##.my-2.container
 pro.uptodatefree.ir##.container > strong
