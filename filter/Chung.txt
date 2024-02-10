@@ -11,6 +11,7 @@ baomoi.com##.ad-banner-list
 
 m.genk.vn###adm-slot-7269
 
+
 ||accounts.google.com/gsi/iframe/select$subdocument
 
 vnexpress.net##.js_installvneapp.installvneapp--small.installvneapp
