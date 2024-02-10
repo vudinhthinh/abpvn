@@ -1,4 +1,14 @@
 
+
+rphang.ac##.uix_noticeInner
+rphang.ac##.uix_welcomeSection
+rphang.ac##.samBannerUnit
+rphang.ac##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
+rphang.ac##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
+rphang.ac##.p-body-inner > center
+
+baomoi.com##.ad-banner-list
+
 m.genk.vn###adm-slot-7269
 
 ||accounts.google.com/gsi/iframe/select$subdocument
