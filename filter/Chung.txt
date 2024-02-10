@@ -1,4 +1,8 @@
 
+||accounts.google.com/gsi/iframe/select$subdocument
+
+www.24h.com.vn###div_inpage_banner
+www.24h.com.vn##.div_inpage_banner_open.banner
 
 rphang.ac##.uix_noticeInner
 rphang.ac##.uix_welcomeSection
