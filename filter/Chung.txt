@@ -1,4 +1,5 @@
 
+||api.baomoi.com^
 ||accounts.google.com/gsi/iframe/select$subdocument
 
 www.24h.com.vn###div_inpage_banner
