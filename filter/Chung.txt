@@ -1,4 +1,6 @@
 
+
+voz.vn##.notice--primary.js-notice.notice
 ||api.baomoi.com^
 ||accounts.google.com/gsi/iframe/select$subdocument
 
