@@ -1,7 +1,7 @@
 
 
 voz.vn##.notice--primary.js-notice.notice
-||api.baomoi.com^
+
 ||accounts.google.com/gsi/iframe/select$subdocument
 
 www.24h.com.vn###div_inpage_banner
@@ -29,7 +29,7 @@ pro.uptodatefree.ir##span > [href="/Donate/"]
 pro.uptodatefree.ir##.upperbox > span
 
 ||69av.one/*.gif
-@@||w-api.baomoi.com^
+
 www.thegioididong.com##.zalo-chat-widget
 
 ||rphang.online/images/top_mobile_*2.gif$image
