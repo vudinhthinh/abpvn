@@ -14,12 +14,12 @@ pro.uptodatefree.ir##.container > strong
 pro.uptodatefree.ir##span > [href="/Donate/"]
 pro.uptodatefree.ir##.upperbox > span
 
-rphang.ac##.uix_noticeInner
-rphang.ac##.uix_welcomeSection
-rphang.ac##.samBannerUnit
-rphang.ac##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
-rphang.ac##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
-rphang.ac##.p-body-inner > center
+rphang.bz##.uix_noticeInner
+rphang.bz##.uix_welcomeSection
+rphang.bz##.samBannerUnit
+rphang.bz##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
+rphang.bz##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
+rphang.bz##.p-body-inner > center
 
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
 hangdep.lol##.modal-window-content
