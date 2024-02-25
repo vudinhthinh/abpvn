@@ -1,4 +1,5 @@
 
+baomoi.com##.ad-banner-list
 voz.vn##.message-signature
 voz.vn##.notice--primary.js-notice.notice
 ||accounts.google.com/gsi/iframe/select$subdocument
