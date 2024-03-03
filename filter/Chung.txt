@@ -1,5 +1,5 @@
 
-
+github.com##textarea:style(z-index:0!important)
 voz.vn##.message-signature
 voz.vn##.notice--primary.js-notice.notice
 ||accounts.google.com/gsi/iframe/select$subdocument
