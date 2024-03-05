@@ -1,4 +1,5 @@
 
+baomoi.com##.ad-banner-list
 github.com##textarea:style(z-index:0!important)
 ||accounts.google.com/gsi/iframe/select$subdocument
 www.24h.com.vn###div_inpage_banner
