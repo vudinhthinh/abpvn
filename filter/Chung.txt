@@ -10,12 +10,12 @@ www.thegioididong.com##.zalo-chat-widget
 tinhte.vn##.facts-container.jsx-1328309378
 tinhte.vn##.undefined.additional-padding.col-main.jsx-2790954478>.jsx-1328309378
 
-rphang.biz##.uix_noticeInner
-rphang.biz##.uix_welcomeSection
-rphang.biz##.samBannerUnit
-rphang.biz##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
-rphang.biz##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
-rphang.biz##.p-body-inner > center
+rphang.la##.uix_noticeInner
+rphang.la##.uix_welcomeSection
+rphang.la##.samBannerUnit
+rphang.la##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
+rphang.la##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
+rphang.la##.p-body-inner > center
 
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
 hangdep.lol##.modal-window-content
