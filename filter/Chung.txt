@@ -16,12 +16,12 @@ www.teamos.xyz##.p-body-header
 www.teamos.xyz##[src="https://lookimg.com/images/2021/12/20/PydgJE.png"]
 
 
-rphang.la##.uix_noticeInner
-rphang.la##.uix_welcomeSection
-rphang.la##.samBannerUnit
-rphang.la##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
-rphang.la##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
-rphang.la##.p-body-inner > center
+rphang.io##.uix_noticeInner
+rphang.io##.uix_welcomeSection
+rphang.io##.samBannerUnit
+rphang.io##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
+rphang.io##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
+rphang.io##.p-body-inner > center
 
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
 hangdep.lol##.modal-window-content
