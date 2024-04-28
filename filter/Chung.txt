@@ -22,6 +22,9 @@ rphang.moe##.samBannerUnit
 rphang.moe##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
 rphang.moe##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
 rphang.moe##.p-body-inner > center
+rphang.moe##.notice--primary.js-notice.notice
+rphang.moe##.uix_welcomeSection__inner
+rphang.moe##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
 
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
 hangdep.lol##.modal-window-content
