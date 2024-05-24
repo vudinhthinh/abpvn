@@ -20,7 +20,7 @@ rphang.men##.samBannerUnit
 rphang.men##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
 rphang.men##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
 rphang.men##.p-body-inner > center
-rphang.moe##.notice--primary.js-notice.notice
+rphang.men##.notice--primary.js-notice.notice
 rphang.men##.uix_welcomeSection__inner
 
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
