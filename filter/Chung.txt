@@ -14,14 +14,14 @@ www.teamos.xyz##.p-body-header
 www.teamos.xyz##[src="https://lookimg.com/images/2021/12/20/PydgJE.png"]
 
 
-rphang.moe##.uix_noticeInner
-rphang.moe##.uix_welcomeSection
-rphang.moe##.samBannerUnit
-rphang.moe##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
-rphang.moe##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
-rphang.moe##.p-body-inner > center
+rphang.men##.uix_noticeInner
+rphang.men##.uix_welcomeSection
+rphang.men##.samBannerUnit
+rphang.men##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
+rphang.men##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
+rphang.men##.p-body-inner > center
 rphang.moe##.notice--primary.js-notice.notice
-rphang.moe##.uix_welcomeSection__inner
+rphang.men##.uix_welcomeSection__inner
 
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
 hangdep.lol##.modal-window-content
