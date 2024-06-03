@@ -23,6 +23,12 @@ rphang.men##.p-body-inner > center
 rphang.men##.notice--primary.js-notice.notice
 rphang.men##.uix_welcomeSection__inner
 
+rphang.men##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
+rphang.men##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
+rphang.men##.u-clearFix.brmsLeftTabs.BRMSContainerDark.BRMSContainer
+rphang.men##.p-header
+
+
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
 hangdep.lol##.modal-window-content
 hangdep.lol##.text.topRight.mw-close-btn
