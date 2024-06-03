@@ -1,4 +1,6 @@
 
+voz.vn##^.p-body-sidebar
+voz.vn##.p-body-sidebarCol:style(display:none!important)
 github.com##textarea:style(z-index:0!important)
 www.24h.com.vn###div_inpage_banner
 www.24h.com.vn##.div_inpage_banner_open.banner
