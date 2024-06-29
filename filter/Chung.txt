@@ -16,16 +16,7 @@ www.teamos.xyz##.p-body-header
 www.teamos.xyz##[src="https://lookimg.com/images/2021/12/20/PydgJE.png"]
 
 
-rphang.meme##.uix_noticeInner
 rphang.meme##.uix_welcomeSection
-rphang.meme##.samBannerUnit
-rphang.meme##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
-rphang.meme##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(5)
-rphang.meme##.p-body-inner > center
-rphang.meme##.notice--primary.js-notice.notice
-rphang.meme##.uix_welcomeSection__inner
-rphang.meme##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
-rphang.meme##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
 
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
 hangdep.lol##.modal-window-content
