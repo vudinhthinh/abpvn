@@ -1,4 +1,23 @@
 
+social.zalopay.vn
+opentracking.zalopay.vn
+video.zalo.me
+zinst-stc.zdn.vn
+graph.zalo.me
+miniappstore.api.zalo.me
+zagoo.vn
+zalo.cloud
+zalo.video
+discovery.api.zaloapp.com
+stc-zmp.zadn.vn
+sentry-mini.zalo.me
+broadcast.api.zaloapp.com
+oa.zalo.me
+fiza.ai
+stc-fin.zdn.vn
+stc-sp.zadn.vn
+res-zalo.zadn.vn
+
 voz.vn##^.p-body-sidebar
 voz.vn##.p-body-sidebarCol:style(display:none!important)
 github.com##textarea:style(z-index:0!important)
@@ -16,6 +35,12 @@ www.teamos.xyz##.p-body-header
 www.teamos.xyz##[src="https://lookimg.com/images/2021/12/20/PydgJE.png"]
 
 
+||rphang.online/*.gif
+||rphang.online/*.gif$image
+||rphang.online/images/top_mobile*.png$image
+rphang.vin##.uix_noticeInner
+rphang.vin##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
+rphang.vin##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
 rphang.meme##.uix_welcomeSection
 
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
