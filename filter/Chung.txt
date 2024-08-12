@@ -41,7 +41,7 @@ www.teamos.xyz##[src="https://lookimg.com/images/2021/12/20/PydgJE.png"]
 rphang.vin##.uix_noticeInner
 rphang.vin##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
 rphang.vin##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
-rphang.meme##.uix_welcomeSection
+rphang.vin##.uix_welcomeSection
 
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
 hangdep.lol##.modal-window-content
