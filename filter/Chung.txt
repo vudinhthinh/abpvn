@@ -18,8 +18,6 @@ stc-fin.zdn.vn
 stc-sp.zadn.vn
 res-zalo.zadn.vn
 
-voz.vn##^.p-body-sidebar
-voz.vn##.p-body-sidebarCol:style(display:none!important)
 github.com##textarea:style(z-index:0!important)
 www.24h.com.vn###div_inpage_banner
 www.24h.com.vn##.div_inpage_banner_open.banner
@@ -38,6 +36,7 @@ www.teamos.xyz##[src="https://lookimg.com/images/2021/12/20/PydgJE.png"]
 ||rphang.online/*.gif
 ||rphang.online/*.gif$image
 ||rphang.online/images/top_mobile*.png$image
+
 rphang.dog##.uix_noticeInner
 rphang.dog##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
 rphang.dog##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
