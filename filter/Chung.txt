@@ -17,16 +17,16 @@ www.teamos.xyz##[src="https://lookimg.com/images/2021/12/20/PydgJE.png"]
 ||rphang.online/*.gif$image
 ||rphang.online/images/top_mobile*.png$image
 
-rphang.ph##.uix_noticeInner
-rphang.ph##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
-rphang.ph##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
-rphang.ph##.uix_welcomeSection
+rphang.vc##.uix_noticeInner
+rphang.vc##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
+rphang.vc##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
+rphang.vc##.uix_welcomeSection
 
-rphang.ph##.uix_noticeInner
-rphang.ph##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(2)
-rphang.ph##.u-clearFix.brmsLeftTabs.BRMSContainerDark.BRMSContainer
-rphang.ph##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
-rphang.ph##.p-header
+rphang.vc##.uix_noticeInner
+rphang.vc##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(2)
+rphang.vc##.u-clearFix.brmsLeftTabs.BRMSContainerDark.BRMSContainer
+rphang.vc##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
+rphang.vc##.p-header
 
 
 javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
