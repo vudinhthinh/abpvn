@@ -1,3 +1,14 @@
+
+rphang.vet##.uix_noticeInner
+rphang.vet##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
+rphang.vet##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
+rphang.vet##.uix_welcomeSection
+rphang.vet##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(2)
+rphang.vet##.u-clearFix.brmsLeftTabs.BRMSContainerDark.BRMSContainer
+rphang.vet##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
+rphang.vet##.p-header
+
+
 github.com##textarea:style(z-index:0!important)
 www.24h.com.vn###div_inpage_banner
 www.24h.com.vn##.div_inpage_banner_open.banner
@@ -7,29 +18,6 @@ www.thegioididong.com##.zalo-chat-widget
 tinhte.vn##.facts-container.jsx-1328309378
 tinhte.vn##.undefined.additional-padding.col-main.jsx-2790954478>.jsx-1328309378
 
-www.teamos.xyz###siropuChatNotice > span > .bbWrapper
-www.teamos.xyz##.siropuChatAboveForumList.block
-www.teamos.xyz##.p-body-header
-www.teamos.xyz##[src="https://lookimg.com/images/2021/12/20/PydgJE.png"]
-
-
-||rphang.online/*.gif
-||rphang.online/*.gif$image
-||rphang.online/images/top_mobile*.png$image
-
-rphang.vc##.uix_noticeInner
-rphang.vc##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
-rphang.vc##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
-rphang.vc##.uix_welcomeSection
-
-rphang.vc##.uix_noticeInner
-rphang.vc##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(2)
-rphang.vc##.u-clearFix.brmsLeftTabs.BRMSContainerDark.BRMSContainer
-rphang.vc##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
-rphang.vc##.p-header
-
-
-javgg.net##.show.fade.alert-dismissible.alert-warning.alert.notification-bar
 hangdep.lol##.modal-window-content
 hangdep.lol##.text.topRight.mw-close-btn
 hangdep.lol###wow-modal-overlay-2
