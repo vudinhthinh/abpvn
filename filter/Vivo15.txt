@@ -37,16 +37,6 @@ mesu.apple.com
 xp.apple.com
 gdmf.v.aaplimg.com
 
-fe-gr-chat.zalo.me
-ads-platform.zalo.me
-oauth.zaloapp.com
-centralized.zaloapp.com
-miniappstore.api.zalo.me
-button-share.zalo.me
-
-sso.tuoitre.vn
-raovat.tuoitre.vn
-apigames.kenh14.vn
 update.kiwibrowser.com
 
 
