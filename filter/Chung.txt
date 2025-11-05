@@ -9,18 +9,10 @@ rphang.pet##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
 rphang.pet##.p-header
 
 
-github.com##textarea:style(z-index:0!important)
 www.24h.com.vn###div_inpage_banner
 www.24h.com.vn##.div_inpage_banner_open.banner
 m.genk.vn###adm-slot-7269
-vnexpress.net##.js_installvneapp.installvneapp--small.installvneapp
-www.thegioididong.com##.zalo-chat-widget
-tinhte.vn##.facts-container.jsx-1328309378
-tinhte.vn##.undefined.additional-padding.col-main.jsx-2790954478>.jsx-1328309378
 
-hangdep.lol##.modal-window-content
-hangdep.lol##.text.topRight.mw-close-btn
-hangdep.lol###wow-modal-overlay-2
 
 ||tm00738.bj.bcebos.com/*.gif$image
 ||u3c3.com/*.gif
