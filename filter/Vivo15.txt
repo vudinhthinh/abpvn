@@ -41,6 +41,7 @@ update.kiwibrowser.com
 
 jupiter.sys.miui.com
 jupiter.intl.sys.miui.com
+
 api.account.xiaomi.com
 galleryapi.micloud.xiaomi.net
 cdn.exp.xiaomi.com
@@ -56,5 +57,6 @@ privacy.api.intl.miui.com
 sdkconfig.intl.xiaomi.com
 abroad.api.comm.intl.miui.com
 update.avlyun.sec.miui.com
+
 
 
