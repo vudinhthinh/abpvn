@@ -39,4 +39,22 @@ gdmf.v.aaplimg.com
 
 update.kiwibrowser.com
 
+jupiter.sys.miui.com
+jupiter.intl.sys.miui.com
+api.account.xiaomi.com
+galleryapi.micloud.xiaomi.net
+cdn.exp.xiaomi.com
+account.xiaomi.com
+api.micloud.xiaomi.net
+api.zhuti.xiaomi.com
+us.galleryapi.micloud.xiaomi.net
+api.installer.xiaomi.com
+cn.find.api.micloud.xiaomi.net
+find.api.micloud.xiaomi.net
+connect.intl.rom.miui.com
+privacy.api.intl.miui.com
+sdkconfig.intl.xiaomi.com
+abroad.api.comm.intl.miui.com
+update.avlyun.sec.miui.com
+
 
