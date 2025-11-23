@@ -1,0 +1,111 @@
+﻿;DO NOT DELETE THIS LINE*** version=1 ***
+30ph:sáng trước ăn 30 phút
+46h:khi sốt cách nhau 4-6 giờ.
+khsot:khi sốt cách nhau 4-6 giờ.
+adtv: ấn đau thượng vị
+aki:Tổn thương thận cấp
+bgmem:Bụng mềm, gan lách sờ không chạm
+bungmem:Bụng mềm, gan lách sờ không chạm
+bienchung:biến chứng
+bilirubin:bilirubin toàn phần, bilirubin trực tiếp,
+bn:bệnh nhân
+bntinh:Bệnh nhân tỉnh
+btm:Bệnh thận mạn giai đoạn 
+cc:cấp cứu
+cd:Chẩn đoán:
+cdqt:Cơn đau quặn thận
+ch:chiều
+chsoc:Theo dõi sinh hiệu ... h/lần.   Chăm sóc cấp ...   Cơm, cháo.
+chamsoc:Theo dõi sinh hiệu ... h/lần.   Chăm sóc cấp ...   Cơm, cháo.
+chiam:Chi ấm, mạch rõ
+cnv:Bệnh nhân khai cách nhập viện ... , bệnh nhân
+comem:Cổ mềm
+cre:creatinin,
+crp:CRP định lượng (thu phí)
+ctbung:Chụp CLVT bụng có tiêm thuốc cản quang
+ctm:TPTTB máu bằng máy đếm laser
+ctso:Chụp CLVT sọ não không tiêm thuốc cản quang
+dg:đang
+dhcb:có dấu hiệu cảnh báo
+dhmm:test đường huyết mao mạch tại giường
+dnh:Da niêm hồng
+dongtu:Đồng tử hai bên #...mm, pxas: 
+dotcap:Đợt cấp COPD mức độ
+dtd:Đái tháo đường type 2
+g/p:giọt/phút
+gerd:Trào ngược dạ dày thực quản
+traonguoc:Trào ngược dạ dày thực quản
+glu:glucose máu,
+hcp:hố chậu phải
+hcvc:hội chứng vành cấp
+hg:hông
+hpq:hen phế quản
+ion:điện giải đồ 3 thông số,
+kcq:Tim đều Phổi thông khí 2 bên Bụng mềm, gan lách sờ không chạm
+ketqua:Kết quả cận lâm sàng:
+khoe:Chưa ghi nhận bệnh lý
+kinhmoi:Kính mời bác sĩ chuyên khoa ... khám và cho ý kiến điều trị.
+ko:không
+ktk:GCS: ... điểm (E M V), sức cơ tứ chi 5/5, Không méo miệng, không nói đớ, không liệt mặt
+ktq:Bệnh nhân tỉnh Tiếp xúc được Chi ấm mạch rõ Không phù, không dấu xuất huyết Tuyến giáp không to, hạch ngoại vi sờ không chạm
+l/p:lần/phút
+latate:Lactate Ringer 0.9% 500ml
+md:mức độ
+na1:Nhập A1 điều trị tiếp.
+na2:Nhập A2 điều trị tiếp.
+nacl:Natriclorua 0.9% 500ml
+nmct:Nhồi máu cơ tim cấp không ST chênh lên
+nmn:Nhồi máu não cấp giờ
+xhn:Xuất huyết não cấp giờ
+tbmmn:TD Tai biến mạch máu não cấp giờ
+ns1:Test Dengue NS1:  .... tính
+nsv:Nhiễm siêu vi ngày
+ntnt:Ngưng tim ngưng thở ngoại viện CRNN
+ntth:Nhiễm trùng tiêu hóa
+nuoctieu:10 thông số nước tiểu
+oap:Phù phổi cấp
+phoitho:Phổi thông khí 2 bên
+rllp:Rối loạn lipid máu
+rltd:Rối loạn tiền đình
+rlth:Rối loạn tiêu hóa
+sam:siêu âm bụng tổng quát
+sieuam:siêu âm bụng tổng quát
+sg:sáng
+sgch:sáng - chiều
+sh:Mạch:  lần/phút  Huyết áp:  mmHg  Nhịp thở:     lần/phút   SpO2:   % (khí trời) Nhiệt độ:   độ C
+shh:suy hô hấp
+sxh:Sốt xuất huyết Dengue ngày 
+txd:Tiếp xúc được
+tha:Tăng huyết áp
+thakc:Tăng huyết áp khẩn cấp
+tim deu:Tim đều
+toave:Cho bệnh nhân xuất viện.   Toa xuất viện ... ngày:
+vdd:Viêm dạ dày
+vhht:Viêm hô hấp trên
+viemphoi:Viêm phổi cộng đồng
+xhth:Xuất huyết tiêu hóa
+xhthtren:Xuất huyết tiêu hóa trên mức độ ... nghĩ do loét dạ dày tá tràng
+xinve:Giải thích tình trạng bệnh cho bệnh nhân và thân nhân cần nằm viện theo dõi và tiếp tục điều trị. Nhưng bệnh nhân và thân nhân không đồng ý nằm viện, cho xuất viện theo yêu cầu. Kí hồ sơ xin về.
+xn:Xét nghiệm
+xnsxh:TPTTB máu bằng máy đếm laser, glucose, urê, creatinin, điện giải đồ 3 thông số, AST, ALT, Test Dengue NS1
+xntq:TPTTB máu bằng máy đếm laser, glucose, urê, creatinin, điện giải đồ 3 thông số, AST, ALT, ECG
+xnnmct:TPTTB máu bằng máy đếm laser, glucose, urê, creatinin, điện giải đồ 3 thông số, AST, ALT, ECG, Troponin I
+xnxogan:TPTTB máu bằng máy đếm laser, glucose, urê, creatinin, điện giải đồ 3 thông số, AST, ALT, ECG, TQ, TCK, Bilirubin toàn phần, Bilirubin trực tiếp, Albunmin, Protein TP,
+xnvpq:TPTTB máu bằng máy đếm laser, glucose, urê, creatinin, điện giải đồ 3 thông số, AST, ALT, ECG, X-Quang ngực thẳng,
+xnntth:TPTTB máu bằng máy đếm laser, glucose, urê, creatinin, điện giải đồ 3 thông số, AST, ALT, Siêu âm bụng tổng quát,
+xqbung:X-Quang bụng đứng không chuẩn bị,
+xqnguc:X-Quang ngực thẳng,
+bungmem:bụng mềm
+1x2:1 viên x 2 (uống) sáng - chiều
+1x4:1 viên x 4 (uống)
+xchai:x 1 chai TTM ... giọt/phút
+phanacl:pha Natriclorua 0.9% đủ 50ml BTĐ ... ml/h
+tmc:Tĩnh mạch chậm
+tiembap:Tiêm bắp
+ks:kháng sinh
+nor:Noradrenaline
+adre:Adrenalin
+succo:sức cơ tay phải: ... /5, chân phải: ... /5, tay trái: ... /5, chân trái: ... /5
+glu5:Glucose 5% 500ml
+hstp:Đặt nội khí quản số 7.0 cố định cung răng 22. Bóp bóng qua NKQ tần số 10 lần/phút. Ép tim ngoài lồng ngực tần số 100-120 lần/phút. Adrenalin 1mg/ml x 1 ống (TMC) mỗi 3 phút đến khi có tim đập lại. 
+
