@@ -11,4 +11,6 @@ baomoi.com###js-masthead .ad-banner-list
 baomoi.com##div[class*="mt-"][class*="pt-"][class*="border-t"]
 baomoi.com##div[id^="ZAP-zone-"]
 dantri.com.vn##.dt-flex.dt-items-center.dt-gap-2.dt-justify-between.dt-px-3.dt-py-1.dt-bg-white
+teamos.xyz##div[class="p-header-logo p-header-logo--image"]
+
 
