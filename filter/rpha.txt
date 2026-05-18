@@ -1,5 +1,5 @@
-rphang.cafe##.uix_noticeInner
-rphang.cafe##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
-rphang.cafe##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
-rphang.cafe##.listphim1
-rphang.cafe##.samVideoOverlay
+rphang.hot##.uix_noticeInner
+rphang.hot##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
+rphang.hot##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
+rphang.hot##.listphim1
+rphang.hot##.samVideoOverlay
