@@ -1,5 +1,5 @@
 rphang.yoga##.uix_noticeInner
 rphang.yoga##div.u-clearFix.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(3)
 rphang.yoga##div.brmsTopTabs.BRMSContainerDark.BRMSContainer:nth-of-type(4)
-rphang.yora##.listphim1
-rphang.yora##.samVideoOverlay
+rphang.yoga##.listphim1
+rphang.yoga##.samVideoOverlay
