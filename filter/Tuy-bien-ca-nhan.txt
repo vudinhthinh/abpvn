@@ -14,6 +14,8 @@ voz.vn##.p-body-sidebar
 voz.vn##.voz-adUnit
 voz.vn##.voz-adSlot
 voz.vn##.message-signature
+voz.vn##.message-body .bbWrapper *:has-text(/(gửi từ|sent from)/i)
+
 
 www.teamos.xyz##center
 drive.google.com##[id^=":"][id$=".contentEl"
