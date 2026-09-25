@@ -15,6 +15,8 @@ voz.vn##.voz-adUnit
 voz.vn##.voz-adSlot
 voz.vn##.message-signature
 voz.vn##.message-body .bbWrapper *:has-text(/(gửi từ|sent from)/i)
+||voz.vn/*/94bf/*.gif
+voz.vn##img[src*="/94bf/"]
 
 
 www.teamos.xyz##center
