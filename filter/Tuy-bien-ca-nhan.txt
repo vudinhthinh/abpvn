@@ -1,8 +1,3 @@
-24h.com.vn##div#div_inpage_banner_open
-24h.com.vn##article[id*="kh_lien_quan"]
-24h.com.vn##article[id^="bai_kh_theo_loai_"]
-www.24h.com.vn##.inpage_article_rect
-www.24h.com.vn##.inread_sis_inpage.inpage_article
 
 baomoi.com##[class*="section-ad"]
 baomoi.com##a.bm-card:has(div.bm-card-content.flex-grow)
@@ -23,6 +18,11 @@ voz.vn##div.voz-adSlot.voz-adSlot--leaderboard
 voz.vn##div.voz-adSlot.voz-adSlot--rectangle
 voz.vn##img[src*="/94bf/"]
 
+24h.com.vn##div#div_inpage_banner_open
+24h.com.vn##article[id*="kh_lien_quan"]
+24h.com.vn##article[id^="bai_kh_theo_loai_"]
+www.24h.com.vn##.inpage_article_rect
+www.24h.com.vn##.inread_sis_inpage.inpage_article
 
 www.teamos.xyz##center
 drive.google.com##[id^=":"][id$=".contentEl"
