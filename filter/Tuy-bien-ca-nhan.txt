@@ -15,7 +15,12 @@ voz.vn##.voz-adUnit
 voz.vn##.voz-adSlot
 voz.vn##.message-signature
 voz.vn##.message-body .bbWrapper *:has-text(/(gửi từ|sent from)/i)
-||voz.vn/*/94bf/*.gif
+voz.vn##a.voz-adSlot-backup
+voz.vn##div.notice-content
+voz.vn##div.voz-adSlot.voz-adSlot--billboard
+voz.vn##div.voz-adSlot.voz-adSlot--halfPage
+voz.vn##div.voz-adSlot.voz-adSlot--leaderboard
+voz.vn##div.voz-adSlot.voz-adSlot--rectangle
 voz.vn##img[src*="/94bf/"]
 
 
