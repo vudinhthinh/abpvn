@@ -26,3 +26,11 @@ www.24h.com.vn##.inread_sis_inpage.inpage_article
 
 www.teamos.xyz##center
 drive.google.com##[id^=":"][id$=".contentEl"
+
+drive.google.com###\:25\.contentEl
+
+genk.vn###img_247922338680422400
+
+hscc.vn##[href*="https\:\/\/vip\.hscc\.vn\/dangky\.asp"] > .w3-round-large
+hscc.vn##[src*="logoyhoc\.png"]
+
